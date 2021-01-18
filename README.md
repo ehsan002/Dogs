@@ -1,4 +1,4 @@
-I have made this project to learn Modern Android Development using the android Jetpack libraries. I just followed a course from udemy to do this project.
+I have made this project to learn Modern Android Development using the android Jetpack libraries. I just an online course to do this project.
 This project include:
 
   1. Navigation
